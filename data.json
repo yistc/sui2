@@ -1,9 +1,15 @@
 {
   "apps" : [
     {
-      "name": "Self-Hosted",
+        "name": "Websites",
+        "items": [
+          {"name":"Introduction Page","url":"https://yangchenx.com/","icon":"all-inclusive"},
+          {"name":"Blog 一雨游","url":"https://yiyuyou.com/","icon":"post-outline"}
+        ]
+      },
+    {
+      "name": "Services",
       "items": [
-        {"name":"Introduction Page","url":"https://yangchenx.com/","icon":"all-inclusive"},
         {"name":"Uptime Kuma","url":"https://uptime.zistx.com/dashboard","icon":"hexagon-outline"},
         {"name":"Tautulli","url":"https://tautulli.zistx.com/home","icon":"balloon"},
         {"name":"Aurora","url":"https://aurora.zistx.com/app/servers","icon":"chevron-up"},
@@ -12,12 +18,6 @@
         {"name":"Miniflux","url":"https://miniflux.zistx.com/unread","icon":"rss"},
         {"name":"Sentry","url":"https://sentry.zistx.com/organizations/sentry/projects/","icon":"lightning-bolt"},
         {"name":"RSSHub","url":"https://rsshub.zistx.com/","icon":"rss-box"}
-      ]
-    },
-    {
-      "name": "Websites",
-      "items": [
-        {"name":"Blog 一雨游","url":"https://yiyuyou.com/","icon":"post-outline"},
       ]
     }
   ],
