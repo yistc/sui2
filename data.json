@@ -1,69 +1,88 @@
 {
-  "apps" : [
-    {
-        "name": "Websites",
+    "apps" : [
+      {
+          "name": "Websites",
+          "items": [
+            {"name":"Introduction Page","url":"https://yangchenx.com/","icon":"all-inclusive"},
+            {"name":"Blog 一雨游","url":"https://yiyuyou.com/","icon":"post-outline"},
+            {"name":"Sui2 Repo","url":"https://github.com/yistc/sui2","icon":"eiffel-tower"}
+          ]
+        },
+      {
+        "name": "Services",
         "items": [
-          {"name":"Introduction Page","url":"https://yangchenx.com/","icon":"all-inclusive"},
-          {"name":"Blog 一雨游","url":"https://yiyuyou.com/","icon":"post-outline"}
+          {"name":"Uptime Kuma","url":"https://uptime.zistx.com/dashboard","icon":"hexagon-outline"},
+          {"name":"Tautulli","url":"https://tautulli.zistx.com/home","icon":"balloon"},
+          {"name":"Aurora","url":"https://aurora.zistx.com/app/servers","icon":"chevron-up"},
+          {"name":"Squoosh","url":"https://squoosh.zistx.com/","icon":"grass"},
+          {"name":"qBitorrent","url":"https://netcup18.zistx.com/qbt/","icon":"arrow-down-bold-circle-outline"},
+          {"name":"Sentry","url":"https://sentry.zistx.com/organizations/sentry/projects/","icon":"lightning-bolt"},
+          {"name":"AriaNG","url":"https://ariang.zistx.com/#!/downloading","icon":"cloud-download-outline"},
+          {"name":"Miniflux","url":"https://miniflux.zistx.com/unread","icon":"rss"},
+          {"name":"RSSHub","url":"https://rsshub.zistx.com/","icon":"rss-box"}
+        ]
+      }
+    ],
+    "bookmarks" : [
+      {
+        "category": "Communicate",
+        "links": [
+          {
+            "name": "Discord",
+            "url": "https://discord.com/channels/@me"
+          },
+          {
+            "name": "Gmail",
+            "url": "http://gmail.com"
+          }
         ]
       },
-    {
-      "name": "Services",
-      "items": [
-        {"name":"Uptime Kuma","url":"https://uptime.zistx.com/dashboard","icon":"hexagon-outline"},
-        {"name":"Tautulli","url":"https://tautulli.zistx.com/home","icon":"balloon"},
-        {"name":"Aurora","url":"https://aurora.zistx.com/app/servers","icon":"chevron-up"},
-        {"name":"Squoosh","url":"https://squoosh.zistx.com/","icon":"grass"},
-        {"name":"qBitorrent","url":"https://netcup18.zistx.com/qbt/","icon":"arrow-down-bold-circle-outline"},
-        {"name":"Miniflux","url":"https://miniflux.zistx.com/unread","icon":"rss"},
-        {"name":"Sentry","url":"https://sentry.zistx.com/organizations/sentry/projects/","icon":"lightning-bolt"},
-        {"name":"RSSHub","url":"https://rsshub.zistx.com/","icon":"rss-box"}
-      ]
-    }
-  ],
-  "bookmarks" : [
-    {
-      "category": "Communicate",
-      "links": [
-        {
-          "name": "Discord",
-          "url": "https://discord.com/channels/@me"
-        },
-        {
-          "name": "Gmail",
-          "url": "http://gmail.com"
-        }
-      ]
-    },
-    {
-      "category": "Cloud",
-      "links": [
-        {
-          "name": "Dropbox-Personal",
-          "url": "https://www.dropbox.com/personal"
-        },
-        {
-            "name": "Dropbox-Team",
-            "url": "https://www.dropbox.com/work"
+      {
+        "category": "Cloud",
+        "links": [
+          {
+            "name": "Dropbox-Personal",
+            "url": "https://www.dropbox.com/personal"
           },
-        {
-          "name": "Drive",
-          "url": "https://drive.google.com"
-        }
-      ]
-    },
-    {
-      "category": "Dev",
-      "links": [
-        {
-          "name": "Devdocs",
-          "url": "https://devdocs.io"
-        },
-        {
-          "name": "Devhints",
-          "url": "https://devhints.io"
-        }
-      ]
-    }
-  ]
-}
+          {
+              "name": "Dropbox-Team",
+              "url": "https://www.dropbox.com/work"
+            },
+          {
+            "name": "Drive",
+            "url": "https://drive.google.com"
+          }
+        ]
+      },
+      {
+        "category": "Dev",
+        "links": [
+          {
+            "name": "Devdocs",
+            "url": "https://devdocs.io"
+          },
+          {
+            "name": "Devhints",
+            "url": "https://devhints.io"
+          }
+        ]
+      },
+      {
+        "category": "Tools",
+        "links": [
+          {
+            "name": "Color Hunt",
+            "url": "https://colorhunt.co/"
+          },
+          {
+            "name": "Z Library",
+            "url": "https://b-ok.global/"
+          },
+          {
+            "name": "IP Info",
+            "url": "https://ip.skk.moe/"
+          }
+        ]
+      }
+    ]
+  }
