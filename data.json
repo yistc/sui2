@@ -19,7 +19,7 @@
           {"name":"Sentry","url":"https://sentry.zistx.com/organizations/sentry/projects/","icon":"lightning-bolt"},
           {"name":"AriaNG","url":"https://ariang.zistx.com/#!/downloading","icon":"cloud-download-outline"},
           {"name":"Miniflux","url":"https://miniflux.zistx.com/unread","icon":"rss"},
-          {"name":"RSSHub","url":"https://rsshub.zistx.com/","icon":"rss-box"},
+          {"name":"RSSHub","url":"https://rsshub.yistc.me/","icon":"rss-box"},
           {"name":"Sentry","url":"https://sentry.yistc.com","icon":"math-log"}
         ]
       }
