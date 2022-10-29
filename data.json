@@ -13,10 +13,8 @@
         "items": [
           {"name":"Uptime Kuma","url":"https://uptime.yistc.me/dashboard","icon":"hexagon-outline"},
           {"name":"Tautulli","url":"https://tautulli.zistx.com/home","icon":"balloon"},
-          {"name":"Aurora","url":"https://aurora.zistx.com/app/servers","icon":"chevron-up"},
-          {"name":"Squoosh","url":"https://squoosh.zistx.com/","icon":"grass"},
-          {"name":"qBitorrent","url":"https://netcup18.zistx.com/qbt/","icon":"arrow-down-bold-circle-outline"},
-          {"name":"AriaNG","url":"https://ariang.zistx.com/#!/downloading","icon":"cloud-download-outline"},
+          {"name":"qBitorrent","url":"https://nc18.yistc.me/qbt/","icon":"arrow-down-bold-circle-outline"},
+          {"name":"AriaNG","url":"https://nc18.yistc.me/ariang/#!/downloading","icon":"cloud-download-outline"},
           {"name":"Miniflux","url":"https://miniflux.yistc.me/unread","icon":"rss"},
           {"name":"RSSHub","url":"https://rsshub.yistc.me/","icon":"rss-box"},
           {"name":"Sentry","url":"https://sentry.yistc.com","icon":"lightning-bolt"}
@@ -85,6 +83,10 @@
           {
             "name": "IP Info",
             "url": "https://ip.skk.moe/"
+          },
+          {
+            "name": "Squoosh",
+            "url": "https://squoosh.app/"
           }
         ]
       }
