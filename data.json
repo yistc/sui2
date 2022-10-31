@@ -89,6 +89,15 @@
             "url": "https://squoosh.app/"
           }
         ]
+      },
+      {
+        "category": "Reading",
+        "links": [
+          {
+            "name": "Buzzing",
+            "url": "https://www.buzzing.cc/"
+          }
+        ]
       }
     ]
   }
