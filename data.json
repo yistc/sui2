@@ -5,19 +5,21 @@
           "items": [
             {"name":"Introduction Page","url":"https://yangchenx.com/","icon":"all-inclusive"},
             {"name":"Blog 一雨游","url":"https://typlog.com/admin/yiyuyou/posts","icon":"post-outline"},
-            {"name":"Sui2 Repo","url":"https://github.com/yistc/sui2","icon":"eiffel-tower"}
+            {"name":"Blog","url":"https://yis.tc","icon":"lead-pencil"},
+            {"name":"Sui2 Repo","url":"https://github.com/yistc/sui2","icon":"eiffel-tower"},
+              
           ]
         },
       {
         "name": "Services",
         "items": [
           {"name":"Uptime Kuma","url":"https://uptime.yistc.me/dashboard","icon":"hexagon-outline"},
-          {"name":"Tautulli","url":"https://tautulli.zistx.com/home","icon":"balloon"},
           {"name":"qBitorrent","url":"https://nc18.yistc.me/qbt/","icon":"arrow-down-bold-circle-outline"},
           {"name":"AriaNG","url":"https://nc18.yistc.me/ariang/#!/downloading","icon":"cloud-download-outline"},
           {"name":"Miniflux","url":"https://miniflux.yistc.me/unread","icon":"rss"},
           {"name":"RSSHub","url":"https://rsshub.yistc.me/","icon":"rss-box"},
-          {"name":"Sentry","url":"https://sentry.yistc.com","icon":"lightning-bolt"}
+          {"name":"Sentry","url":"https://sentry.yistc.com","icon":"lightning-bolt"},
+          {"name":"MicroBin","url":"https://t.yis.tc","icon":"cannabis"},
         ]
       }
     ],
