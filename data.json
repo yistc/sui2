@@ -93,11 +93,15 @@
         ]
       },
       {
-        "category": "Reading",
+        "category": "Others",
         "links": [
           {
             "name": "Buzzing",
             "url": "https://www.buzzing.cc/en/"
+          },
+          {
+            "name": "Youtube Music",
+            "url": "https://music.youtube.com/"
           }
         ]
       }
