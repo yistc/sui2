@@ -4,6 +4,7 @@
           "name": "Websites",
           "items": [
             {"name":"Introduction Page","url":"https://yangchenx.com/","icon":"all-inclusive"},
+            {"name":"Pocket Casts","url":"https://play.pocketcasts.com/new-releases","icon":"podcast"},
             {"name":"Blog 一雨游","url":"https://typlog.com/admin/yiyuyou/posts","icon":"post-outline"},
             {"name":"Blog","url":"https://yis.tc","icon":"lead-pencil"},
             {"name":"Sui2 Repo","url":"https://github.com/yistc/sui2","icon":"eiffel-tower"}
